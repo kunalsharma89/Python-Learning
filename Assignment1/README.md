@@ -14,10 +14,6 @@ A simple command-line Employee Management System in Python that allows you to ad
    ```
    python EMS.py
    ```
-   or
-   ```
-   python EmployeeManageMentSystem.py
-   ```
 2. Follow the on-screen menu to:
    - Add Employee
    - View All Employees
@@ -25,7 +21,7 @@ A simple command-line Employee Management System in Python that allows you to ad
    - Exit
 
 ## Project Structure
-- `EmployeeManageMentSystem.py`: Main program file containing all logic and functions
+- `EMS.py`: Main program file containing all logic and functions
 
 ## How It Works
 - Employee data is stored in a dictionary, with Employee ID as the key and details as a nested dictionary.
